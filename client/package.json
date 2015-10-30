@@ -1,0 +1,28 @@
+{
+  "name": "tutorial_tls",
+  "version": "0.1.0",
+  "description": "Tutorial: The javascript language",
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "thehelp-project": "3.5.1",
+    "gulp-cli": "0.3.0",
+    "gulp-react": "3.0.1",
+    "gulp-concat": "2.6.0",
+    "browserify": "11.1.0",
+    "reactify": "1.1.1",
+    "vinyl-source-stream": "1.1.0",
+    "watchify": "3.4.0",
+    "react": "0.13.3",
+    "gulp-util": "3.0.6"
+  },
+  "author": "Baiju Achari",
+  "license": "All Rights Reserved",
+  "repository": "none",
+  "private": "true",
+  "dependencies": {
+    "griddle-react": "^0.2.14",
+    "gulp": "^3.9.0",
+    "react": "^0.13.3",
+    "underscore": "^1.8.3"
+  }
+}
